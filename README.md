@@ -1,10 +1,23 @@
-# Cq
+# CQ
+
+
+- How to run :
+1. Run ' npm install ' to install the dependencies.
+2. Start the Angular server with : npm start
+3. Node server with : node server.js
+
+- Important :
+1. Admin password : admin@123 
+2. Only accounts registered with admin password can edit / delete other entries.
+3. Normal users can edit / delete their own entries.
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.3.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
